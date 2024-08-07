@@ -3,12 +3,22 @@
     --color-medium-blue: #527d8f;
     --color-light-blue: #8fb9c9;
     --color-dark-blue: #2a3b44;
+    --color-beige: #e0c39a;
+    --color-beige-hover: #efe0c5;
+    --color-dark-beige: #a3875b;
+    --color-white: #f8f4ec;
 
     --font-h1-size: 3rem;
     --font-h2-size: 1.25rem;
+    --font-size: 1rem;
+    --font-sub-size: 0.9rem;
+    --font-caption-size: 0.8rem;
 
     --color-bg-main: var(--color-light-beige);
     --color-title: var(--color-dark-blue);
+    --card-hover: var(--color-beige-hover);
+    --color-card-hover-shadow: var(--color-beige);
+    --color-contrast: var(--color-dark-beige);
 }
 
 * {
@@ -50,4 +60,28 @@ h2 {
 a {
     color: inherit;
     text-decoration: none;
+}
+
+p,
+.paragraph {
+    font-size: var(--font-size);
+    line-height: 24px;
+    color: var(--color-medium-blue);
+}
+
+.subtext {
+    font-size: var(--font-sub-size);
+}
+
+.caption {
+    font-size: var(--font-caption-size);
+}
+.bold {
+    font-weight: 600;
+}
+.noselect {
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
 }
