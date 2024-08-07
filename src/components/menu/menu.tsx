@@ -39,6 +39,7 @@ export default function Menu() {
         <ul className={cls.menu} style={{ marginTop: "1rem" }}>
             <MenuItem text="ABOUT" link="/#about" />
             <MenuItem text="EXPERIENCE" link="/#experience" />
+            <MenuItem text="COURSES" link="/#courses" />
         </ul>
     );
 }
