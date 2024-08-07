@@ -2,6 +2,7 @@ import styles from "./header.module.css";
 import GithubIcon from "../../assets/github";
 import LinkedinIcon from "../../assets/linkedin";
 import MailboxIcon from "../../assets/mainbox";
+import Menu from "../menu/menu";
 
 const links = [
     {
@@ -40,7 +41,7 @@ export default function Header() {
                     experiences.
                 </p>
                 <br />
-                <br />
+                <br /> <Menu />
             </div>
             <div className={styles.links}>
                 {links.map((item) => {

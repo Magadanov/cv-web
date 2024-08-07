@@ -1,0 +1,37 @@
+.menu {
+    display: none;
+}
+
+.menu li {
+    padding-block: 0.5rem;
+    list-style: none;
+    color: var(--color-light-blue);
+    width: fit-content;
+}
+.menu li a {
+    display: flex;
+    align-items: center;
+}
+.menu li:hover,
+.menu li.active {
+    color: var(--color-title);
+}
+
+.line {
+    display: block;
+    width: 2rem;
+    height: 1.5px;
+    background: var(--color-light-blue);
+    transition: width 0.5s;
+}
+.menu li.active .line,
+.menu li:hover .line {
+    width: 4rem;
+    background: var(--color-title);
+}
+
+@media screen and (min-width: 1024px) {
+    .menu {
+        display: block;
+    }
+}
