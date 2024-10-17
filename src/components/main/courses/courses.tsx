@@ -11,8 +11,8 @@ const courses = [
     {
         title: "Angular | RS School",
         description: "",
-        badges: ["Angular", "RxJS", "NgRx"],
-        label: "June 2024 – Aug 2024",
+        badges: ["Angular", "RxJS", "NgRx", "Signal"],
+        label: "July 2024 – Sep 2024",
     },
 ];
 
