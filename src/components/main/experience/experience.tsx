@@ -4,7 +4,7 @@ import cls from "../main.module.css";
 
 const experience = [
     {
-        title: "Frontend Developer",
+        title: "Frontend Developer Intern",
         description:
             "Develop LIMS system, that helps laboratory staff effectively monitor and manage their inventory, including monitoring usage, inventory levels, and system alerts",
         badges: ["Angular", "Typescript", "RxJs", "Signal"],
