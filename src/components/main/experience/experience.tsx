@@ -11,18 +11,19 @@ const experience = [
         label: "Sep. 2024 – present",
     },
     {
-        title: "Frontend Developer",
+        title: "Software Engineer",
         description:
-            "Develop an advanced web-based report builder, which will reduce staff costs and optimize processes in departments. Create websites for interactive data visualization using TypeScript and React to create and manage front-end components.",
-        badges: ["React", "Typescript", "Javascript", "Scss", "Nginx"],
-        label: "Dec. 2023 – present",
-    },
-    {
-        title: "Python Developer",
-        description:
-            "Using Python, Dash, and Streamlit to build web applications that boost the availability of government data to key stakeholders. Improved the ETL process for the data warehouse, leading to better data quality and easier access.",
-        badges: ["Python", "Dash", "Streamlit", "Plotly", "Selenium", "Pandas"],
-        label: "May 2023 – Dec. 2023",
+            "Develop an advanced web-based report builder, which will reduce staff costs and optimize processes in departments. Create websites for interactive data visualization using TypeScript and React to create and manage front-end components. Using Python and Dash to build web applications that boost the availability of government data to key stakeholders.",
+        badges: [
+            "React",
+            "Typescript",
+            "Javascript",
+            "Scss",
+            "Nginx",
+            "Python",
+            "Dash",
+        ],
+        label: "May 2023 – present",
     },
 ];
 
