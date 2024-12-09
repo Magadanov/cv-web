@@ -16,12 +16,11 @@ const experience = [
             "Develop an advanced web-based report builder, which will reduce staff costs and optimize processes in departments. Create websites for interactive data visualization using TypeScript and React to create and manage front-end components. Using Python and Dash to build web applications that boost the availability of government data to key stakeholders.",
         badges: [
             "React",
+            "NextJS",
             "Typescript",
             "Javascript",
             "Scss",
             "Nginx",
-            "Python",
-            "Dash",
         ],
         label: "May 2023 – present",
     },
