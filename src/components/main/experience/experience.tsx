@@ -8,7 +8,7 @@ const experience = [
         description:
             "Develop LIMS system, that helps laboratory staff effectively monitor and manage their inventory, including monitoring usage, inventory levels, and system alerts",
         badges: ["Angular", "Typescript", "RxJs", "Signal"],
-        label: "Sep. 2024 – present",
+        label: "Sep. 2024 – Dec 2024",
     },
     {
         title: "Software Engineer",
@@ -21,8 +21,9 @@ const experience = [
             "Javascript",
             "Scss",
             "Nginx",
+            "Jest",
         ],
-        label: "May 2023 – present",
+        label: "May 2023 – Dec 2024",
     },
 ];
 
