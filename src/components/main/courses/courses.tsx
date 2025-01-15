@@ -18,7 +18,7 @@ const courses = [
 
 export default function Courses() {
     return (
-        <section id="courses" style={{ marginBottom: "200px" }}>
+        <section id="courses">
             <div className={cls.section_head}>
                 <h2 className="paragraph">COURSES</h2>
             </div>

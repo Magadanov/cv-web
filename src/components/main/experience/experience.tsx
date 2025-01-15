@@ -1,4 +1,3 @@
-import LinkArrow from "../../../assets/link-arrow";
 import Card from "../card/card";
 import cls from "../main.module.css";
 
@@ -36,13 +35,6 @@ export default function Experience() {
             {experience.map((item) => {
                 return <Card key={item.title} {...item} />;
             })}
-            <br />
-            <a
-                style={{ color: "var(--color-contrast)" }}
-                href="/MagadanovBekdauletCV.pdf"
-            >
-                View full CV <LinkArrow fill="var(--color-contrast)" />
-            </a>
         </section>
     );
 }

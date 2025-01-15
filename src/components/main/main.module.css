@@ -4,8 +4,8 @@
 }
 
 .main section {
-    padding-bottom: 6rem;
-    scroll-margin-top: 6rem;
+    padding-bottom: 3rem;
+    scroll-margin-top: 3rem;
 }
 
 .main section .section_head {
@@ -26,7 +26,7 @@
         padding-top: 6rem;
     }
 
-    .main section .section_head {
+    /* .main section .section_head {
         display: none;
-    }
+    } */
 }
