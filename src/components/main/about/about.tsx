@@ -7,12 +7,15 @@ export default function About() {
                 <h2 className="paragraph">ABOUT</h2>
             </div>
             <p style={{ paddingInline: ".7rem" }}>
-                I am currently focused on creating user-friendly and attractive
-                user interfaces while integrating advanced server features. I
-                thrive at the intersection of design and engineering, making
-                sure that the software not only looks great, but also works
-                exceptionally well. In my free time, I try to explore approaches
-                to using different frameworks when creating a web platform.
+                I am a Frontend Developer that hands-on experience with React,
+                NextJS and Angular frameworks. Driven by the mantra &apos;Stay
+                humble, stay hungry,&apos; I am committed to becoming a highly
+                skilled and sought-after professional. In my previous role, I
+                was involved in two projects and successfully implemented seven
+                cases. Additionally, I collaborated with the backend team by
+                creating endpoints and working with databases. I also interned
+                at a life-science company, where I successfully implemented a
+                LIMS.
                 <br />
                 <br />
                 When I&apos;m not programming, you can find me reading books,
